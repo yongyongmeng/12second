@@ -5,7 +5,7 @@ package test;
  */
 public class TestGit {
 
-
+int a=2;
     String ss="aa";
 
 }
